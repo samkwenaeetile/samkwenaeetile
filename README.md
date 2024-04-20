@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm currently diving into the world of PHP and exp
 
 ## About Me
 - 👩‍💻 I'm passionate about coding and love exploring new technologies.
-- 🌱 I’m currently learning PHP to enhance my backend development skills.
+- 🌱 I’m currently learning PHP and python to enhance my backend development skills.
 - 💬 Ask me about anything related to web development, and I'll be happy to help!
 - 😄 Pronouns: She/Her
 
