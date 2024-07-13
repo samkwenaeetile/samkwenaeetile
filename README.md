@@ -1,24 +1,29 @@
 
-# Hi there! 👋 I'm Samantha Kwenaeetile
+# Hi there, I'm [Samantha]! 👋
 
-Welcome to my GitHub profile! I'm currently diving into the world of PHP and expanding my skills in web development.
+Welcome to my GitHub profile! I'm an aspiring software developer with a passion for learning and building innovative solutions. Below you'll find some of my key projects and contributions.
 
-## About Me
-- 👩‍💻 I'm passionate about coding and love exploring new technologies.
-- 🌱 I’m currently learning PHP and python to enhance my backend development skills.
-- 💬 Ask me about anything related to web development, and I'll be happy to help!
-- 😄 Pronouns: She/Her
+## 🛠️ Technologies & Tools
+- **Programming Languages:** Python, Java, C, PHP, HTML, CSS, JavaScript
+- **Databases:** MySQL, SQLite
+- **Tools:** Git, GitHub, VSCode, Linux
 
-## Get in Touch
-- 📫 You can reach me via email at [skwenaeetile@icloud.com](mailto:skwenaeetile@gmail.com).
-- 🐦 Connect with me on [Twitter](https://twitter.com/samanthakwenaeetile).
+## 📚 Projects
+### [Weather Forecast Application](https://github.com/yourusername/weather-forecast-app)
+A Python application that fetches and displays current and forecasted weather data using APIs.
 
-## Fun Fact
-- ⚡ Fun fact: I'm also a big fan of hiking and outdoor adventures!
 
-Feel free to explore my repositories and let's connect to collaborate on exciting projects!
+## 🌱 Currently Learning
+- Advanced Python programming with shecodes 
+s
 
-<!---
-samkwenaeetile/samkwenaeetile is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 📫 How to Reach Me
+- Email: [skwenaeetile@icloud.com](mailto:your-email@example.com)
+- LinkedIn: [samantha kwenaeetile](https://www.linkedin.com/in/yourprofile)
+
+## ⚡ Fun Fact
+I enjoy solving puzzles and participating in coding challenges in my free time!
+
+---
+
+Thank you for visiting my GitHub profile! Feel free to explore my projects and connect with me.
