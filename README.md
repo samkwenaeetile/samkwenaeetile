@@ -4,7 +4,7 @@
 Welcome to my GitHub profile! I'm an aspiring software developer with a passion for learning and building innovative solutions. Below you'll find some of my key projects and contributions.
 
 ## 🛠️ Technologies & Tools
-- **Programming Languages:** Python, Java, C, PHP, HTML, CSS, JavaScript
+- **Programming Languages:** Python, Java, C, HTML, CSS, JavaScript
 - **Databases:** MySQL, SQLite
 - **Tools:** Git, GitHub, VSCode, Linux
 
@@ -14,8 +14,9 @@ A Python application that fetches and displays current and forecasted weather da
 
 
 ## 🌱 Currently Learning
-- Advanced Python programming with shecodes 
-s
+- Advanced Python programming with shecodes
+- Data & SQL with Code first girls 
+
 
 ## 📫 How to Reach Me
 - Email: [skwenaeetile@icloud.com](mailto:your-email@example.com)
